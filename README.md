@@ -35,3 +35,6 @@ This repository contains the source code for a Brick Breaker game, implemented i
   - `ground2.jpg`: Image of the normal mode background.
   - `ground3.jpg`: Image of the hard mode background.
 
+- **Screenshots/**: Contains screenshots of game play.
+  
+
